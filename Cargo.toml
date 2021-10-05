@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "borscht",
+    "borscht-visualizer",
+    "datagen",
+    "test-suite"
+]

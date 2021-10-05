@@ -1,5 +1,5 @@
 /*!
- * Random data generation for use in testing the BIRCH algorithm.
+ * Random data generation utilities for use in testing the BIRCH algorithm.
  */
 
 pub mod distribution;
